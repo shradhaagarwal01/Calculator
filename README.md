@@ -26,7 +26,7 @@ It does basic operation
 
 ## Screenshot
 
-![calculator](https://github.com/shradhaagarwal01/Calculator/blob/master/calculator/calculator.PNG?raw=true "Simple Calculator")
+![calculator](https://raw.githubusercontent.com/shradhaagarwal01/Calculator/master/calculator.PNG)
 
 ## Contributing
 
