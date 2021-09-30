@@ -1,7 +1,7 @@
 # Simple Calculator
 
-Calculator is a simple calculator made with the help of HTML, CSS and JavaScript.
-It does basic operation 
+This project is a simple calculator made with the help of HTML, CSS and JavaScript.
+It does basic operations like addition, subtraction, multiplication and division.
 
 
 ## Installation
